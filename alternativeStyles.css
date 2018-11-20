@@ -1,0 +1,21 @@
+body{
+            background: url("https://cdn.dribbble.com/users/50612/screenshots/2246984/seasons.gif");
+            text-align: left;
+        }
+
+        input{
+            width: 50%;
+            height: 50%;
+            color: black;
+            font-size: 30px;
+
+        }
+        label {
+            color: black;
+            font-size: 30px;
+        }
+
+        #outputCelsius{
+            color: black;
+            font-size: 30px;
+        }
